@@ -1,0 +1,5 @@
+.DS_Store
+資料.pdf
+.pyc
+__pycache__/
+/**/*.db
